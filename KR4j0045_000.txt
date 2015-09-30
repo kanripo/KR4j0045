@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 蒲江詞
+#+DATE: 2015-08-25 00:48:24.444785
+#+PROPERTY: ID KR4j0045
+#+PROPERTY: BASEEDITION WYG    
